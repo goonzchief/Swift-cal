@@ -1,1 +1,1 @@
-A Simplr calculator Written by me using Swift!
+A Simple calculator Written by me using Swift!
